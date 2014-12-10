@@ -3,7 +3,6 @@ Hexo-Theme-zhuti
 
 特点
 
-zhuti 和 HaHack 所用的主题的基本相似，特点在于：
 
 * Bootstrap - 基于 Bootstrap 3.1.1 ；
 * 标签插件 - 专门编写了一系列的 Bootstrap tag plugins ，以最大程度的发挥 Bootstrap 的威力。包括：
@@ -18,7 +17,7 @@ zhuti 和 HaHack 所用的主题的基本相似，特点在于：
 * 安装主题：
 
 
-$ git clone git@github.com:tianzhewujiang/zhuti.git themes/zhuti
+`$ git clone git@github.com:tianzhewujiang/zhuti.git themes/zhuti`
 
 * 安装 hexo-tag-bootstrap:
 
